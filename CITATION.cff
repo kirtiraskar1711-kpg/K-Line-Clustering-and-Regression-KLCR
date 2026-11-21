@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  If you use this research software, please cite the associated research
+  article when its final bibliographic details become available. Until then,
+  cite this repository and identify the version or commit used.
+title: 'K-Line Clustering and Regression (K-LCR): Bivariate Pattern Recognition'
+authors:
+  - family-names: Raskar
+    given-names: Kirti
+    affiliation: 'MIT Arts, Commerce & Science College, Alandi (D), Pune, Maharashtra, India'
+abstract: >-
+  Research software and experimental materials for studying K-Line Clustering
+  and Regression (K-LCR), an approach for identifying heterogeneous bivariate
+  linear patterns. The current research scope is pattern recognition; predictive
+  performance is not evaluated.
+repository-code: 'https://github.com/kirtiraskar1711-kpg/K-Line-Clustering-and-Regression-KLCR'
+keywords:
+  - bivariate pattern recognition
+  - line clustering
+  - clusterwise regression
+  - ordinary least squares
+  - perpendicular distance
+  - K-LCR
+version: 0.1.0

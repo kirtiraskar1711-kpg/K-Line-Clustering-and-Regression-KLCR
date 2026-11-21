@@ -1,0 +1,8 @@
+# Python dependencies used by the research scripts.
+# These are minimum package requirements, not a frozen environment lockfile.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl
