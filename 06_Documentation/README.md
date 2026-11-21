@@ -1,1 +1,1 @@
-This folder contains installation instructions, methodological documentation, and reproducibility guidelines.
+Documentation about the methodology, execution environment, and reproducibility checks.

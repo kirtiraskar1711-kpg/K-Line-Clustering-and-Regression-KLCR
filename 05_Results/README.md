@@ -1,1 +1,1 @@
-This folder contains verified experimental results, summary tables, and figures reported in the research paper.
+CSV summaries, replicate-level outputs, figures, and Excel workbooks. Verify every output against the final manuscript before publication.

@@ -1,0 +1,21 @@
+Dataset,Scale,Min cluster size,Status,Iterations,K before merge,Cluster sizes,Pooled R2 before merge,RMSE before merge,Reason
+Parallel,Raw,3,converged,7,3.0,"193,17,190",0.988910132266313,0.329704657173259,
+Parallel,Standardized,3,converged,8,3.0,"197,21,182",0.9891521130015292,0.1040229170951027,
+Crossing,Raw,3,converged,5,3.0,"28,162,210",0.9713940266673429,0.30992476408564246,
+Crossing,Standardized,3,converged,6,3.0,"36,156,208",0.9715199432840961,0.16854927046449686,
+Near-parallel,Raw,3,converged,23,3.0,"204,70,126",0.9431696809040975,0.3150926184591775,
+Near-parallel,Standardized,3,converged,16,3.0,"194,73,133",0.9438751175417418,0.2366105877853156,
+Change-point,Raw,3,converged,15,3.0,"196,108,96",0.9225516998347056,0.25646831891932004,
+Change-point,Standardized,3,converged,16,3.0,"199,108,93",0.9209373149615593,0.2808291799757365,
+Three-pattern,Raw,3,converged,15,3.0,"308,60,32",0.9872245176596702,0.34231595918042707,
+Three-pattern,Standardized,3,converged,20,3.0,"31,308,61",0.9874147406448357,0.11204372453099029,
+Iris,Raw,3,converged,5,3.0,"57,62,31",0.9885310164392636,0.081358021208895,
+Iris,Standardized,3,converged,7,3.0,"34,64,52",0.9872542476365634,0.11252013455828105,
+Old Faithful,Raw,3,converged,8,3.0,"69,137,66",0.9349643793705122,3.4606223841572614,
+Old Faithful,Standardized,3,converged,5,3.0,"86,93,93",0.9535806358734091,0.21505512014284817,
+Fuel,Raw,3,invalid_fit,1,,,,,cluster 2 has n=2 < min_size=3
+Fuel,Standardized,3,invalid_fit,1,,,,,cluster 2 has n=1 < min_size=3
+Crabs,Raw,3,converged,21,3.0,"82,55,63",0.976123347864523,0.39663899316459794,
+Crabs,Standardized,3,converged,21,3.0,"82,55,63",0.976123347864523,0.15413393161403338,
+Hypothetical,Raw,3,converged,1,3.0,"8,6,8",0.9990450029128098,0.5902343800361206,
+Hypothetical,Standardized,3,converged,2,3.0,"9,5,8",0.9990454377086354,0.030185643877554163,

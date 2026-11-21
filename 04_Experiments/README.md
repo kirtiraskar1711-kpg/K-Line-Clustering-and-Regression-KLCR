@@ -1,1 +1,1 @@
-This folder contains scripts for simulation experiments, comparative analysis, and sensitivity analysis.
+Scripts for merging sensitivity and related experimental analyses.

@@ -1,1 +1,1 @@
-This folder contains documentation and permitted data files for the real-world datasets used in the study.
+Selected empirical datasets used in the exploratory analyses. Confirm original sources, versions, licenses, and preprocessing details before final release. Fuel is excluded pending provenance verification.
